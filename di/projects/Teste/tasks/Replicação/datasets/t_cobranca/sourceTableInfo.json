@@ -1,0 +1,11 @@
+{
+  "id": "$replicate$decisionscard_t_cobranca",
+  "name": "decisionscard_t_cobranca",
+  "type": "LANDING",
+  "tableDef": {
+    "name": "t_cobranca",
+    "dbSchema": "{{task.cmVwbGljYcOnw6Nv-g8ft:null$_$decisionscard.schema}}",
+    "secureQri": "",
+    "fullLoadOnly": false
+  }
+}

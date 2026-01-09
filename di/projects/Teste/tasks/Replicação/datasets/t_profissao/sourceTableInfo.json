@@ -1,0 +1,11 @@
+{
+  "id": "$replicate$decisionscard_t_profissao",
+  "name": "decisionscard_t_profissao",
+  "type": "LANDING",
+  "tableDef": {
+    "name": "t_profissao",
+    "dbSchema": "{{task.cmVwbGljYcOnw6Nv-g8ft:null$_$decisionscard.schema}}",
+    "secureQri": "",
+    "fullLoadOnly": false
+  }
+}

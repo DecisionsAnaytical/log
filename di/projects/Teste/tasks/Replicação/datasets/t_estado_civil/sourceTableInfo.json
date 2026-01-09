@@ -1,0 +1,11 @@
+{
+  "id": "$replicate$decisionscard_t_estado_civil",
+  "name": "decisionscard_t_estado_civil",
+  "type": "LANDING",
+  "tableDef": {
+    "name": "t_estado_civil",
+    "dbSchema": "{{task.cmVwbGljYcOnw6Nv-g8ft:null$_$decisionscard.schema}}",
+    "secureQri": "",
+    "fullLoadOnly": false
+  }
+}

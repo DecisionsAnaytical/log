@@ -1,0 +1,11 @@
+{
+  "id": "$replicate$decisionscard_t_forma_pagamento",
+  "name": "decisionscard_t_forma_pagamento",
+  "type": "LANDING",
+  "tableDef": {
+    "name": "t_forma_pagamento",
+    "dbSchema": "{{task.cmVwbGljYcOnw6Nv-g8ft:null$_$decisionscard.schema}}",
+    "secureQri": "",
+    "fullLoadOnly": false
+  }
+}

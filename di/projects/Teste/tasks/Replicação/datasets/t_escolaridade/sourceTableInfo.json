@@ -1,0 +1,11 @@
+{
+  "id": "$replicate$decisionscard_t_escolaridade",
+  "name": "decisionscard_t_escolaridade",
+  "type": "LANDING",
+  "tableDef": {
+    "name": "t_escolaridade",
+    "dbSchema": "{{task.cmVwbGljYcOnw6Nv-g8ft:null$_$decisionscard.schema}}",
+    "secureQri": "",
+    "fullLoadOnly": false
+  }
+}

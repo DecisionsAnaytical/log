@@ -1,0 +1,11 @@
+{
+  "id": "$replicate$decisionscard_t_fechamento",
+  "name": "decisionscard_t_fechamento",
+  "type": "LANDING",
+  "tableDef": {
+    "name": "t_fechamento",
+    "dbSchema": "{{task.cmVwbGljYcOnw6Nv-g8ft:null$_$decisionscard.schema}}",
+    "secureQri": "",
+    "fullLoadOnly": false
+  }
+}

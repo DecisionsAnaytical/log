@@ -1,0 +1,11 @@
+{
+  "id": "$replicate$decisionscard_t_pagamento_boleto",
+  "name": "decisionscard_t_pagamento_boleto",
+  "type": "LANDING",
+  "tableDef": {
+    "name": "t_pagamento_boleto",
+    "dbSchema": "{{task.cmVwbGljYcOnw6Nv-g8ft:null$_$decisionscard.schema}}",
+    "secureQri": "",
+    "fullLoadOnly": false
+  }
+}

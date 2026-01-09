@@ -1,0 +1,17 @@
+{
+  "id": "t_ocupacao",
+  "name": "t_ocupacao",
+  "type": "LANDING",
+  "inputDatasets": [
+    {
+      "type": "TABLE",
+      "datasetId": "$replicate$decisionscard_t_ocupacao",
+      "name": "t_ocupacao",
+      "projectId": "{{ref(project.current.projectId)}}",
+      "taskId": "cmVwbGljYcOnw6Nv-g8ft",
+      "schema": "{{task.cmVwbGljYcOnw6Nv-g8ft:null$_$decisionscard.schema}}"
+    }
+  ],
+  "virtualDataset": false,
+  "description": ""
+}

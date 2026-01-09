@@ -1,0 +1,11 @@
+{
+  "id": "$replicate$decisionscard_t_dominio",
+  "name": "decisionscard_t_dominio",
+  "type": "LANDING",
+  "tableDef": {
+    "name": "t_dominio",
+    "dbSchema": "{{task.cmVwbGljYcOnw6Nv-g8ft:null$_$decisionscard.schema}}",
+    "secureQri": "",
+    "fullLoadOnly": false
+  }
+}

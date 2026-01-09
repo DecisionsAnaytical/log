@@ -1,0 +1,11 @@
+{
+  "id": "$replicate$decisionscard_t_parcela_venda",
+  "name": "decisionscard_t_parcela_venda",
+  "type": "LANDING",
+  "tableDef": {
+    "name": "t_parcela_venda",
+    "dbSchema": "{{task.cmVwbGljYcOnw6Nv-g8ft:null$_$decisionscard.schema}}",
+    "secureQri": "",
+    "fullLoadOnly": false
+  }
+}

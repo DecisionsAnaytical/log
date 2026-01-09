@@ -1,0 +1,11 @@
+{
+  "id": "$replicate$decisionscard_t_rede",
+  "name": "decisionscard_t_rede",
+  "type": "LANDING",
+  "tableDef": {
+    "name": "t_rede",
+    "dbSchema": "{{task.cmVwbGljYcOnw6Nv-g8ft:null$_$decisionscard.schema}}",
+    "secureQri": "",
+    "fullLoadOnly": false
+  }
+}

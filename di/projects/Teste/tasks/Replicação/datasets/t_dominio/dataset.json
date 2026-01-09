@@ -1,0 +1,17 @@
+{
+  "id": "t_dominio",
+  "name": "t_dominio",
+  "type": "LANDING",
+  "inputDatasets": [
+    {
+      "type": "TABLE",
+      "datasetId": "$replicate$decisionscard_t_dominio",
+      "name": "t_dominio",
+      "projectId": "{{ref(project.current.projectId)}}",
+      "taskId": "cmVwbGljYcOnw6Nv-g8ft",
+      "schema": "{{task.cmVwbGljYcOnw6Nv-g8ft:null$_$decisionscard.schema}}"
+    }
+  ],
+  "virtualDataset": false,
+  "description": ""
+}

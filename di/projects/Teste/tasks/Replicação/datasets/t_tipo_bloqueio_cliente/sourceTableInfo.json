@@ -1,0 +1,11 @@
+{
+  "id": "$replicate$decisionscard_t_tipo_bloqueio_cliente",
+  "name": "decisionscard_t_tipo_bloqueio_cliente",
+  "type": "LANDING",
+  "tableDef": {
+    "name": "t_tipo_bloqueio_cliente",
+    "dbSchema": "{{task.cmVwbGljYcOnw6Nv-g8ft:null$_$decisionscard.schema}}",
+    "secureQri": "",
+    "fullLoadOnly": false
+  }
+}

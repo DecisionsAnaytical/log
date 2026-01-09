@@ -1,0 +1,181 @@
+{
+  "sourceConnection": "{{task.cmVwbGljYcOnw6Nv-g8ft.sourceConnection}}",
+  "includePatterns": [],
+  "excludePatterns": [],
+  "explicitlySelected": [
+    {
+      "name": "t_acordo",
+      "schema": "{{task.cmVwbGljYcOnw6Nv-g8ft:null$_$decisionscard.schema}}",
+      "type": "TABLE",
+      "sourceTableId": "$replicate$decisionscard_t_acordo"
+    },
+    {
+      "name": "t_ajuste",
+      "schema": "{{task.cmVwbGljYcOnw6Nv-g8ft:null$_$decisionscard.schema}}",
+      "type": "TABLE",
+      "sourceTableId": "$replicate$decisionscard_t_ajuste"
+    },
+    {
+      "name": "t_bloqueio_cartao",
+      "schema": "{{task.cmVwbGljYcOnw6Nv-g8ft:null$_$decisionscard.schema}}",
+      "type": "TABLE",
+      "sourceTableId": "$replicate$decisionscard_t_bloqueio_cartao"
+    },
+    {
+      "name": "t_bloqueio_cliente",
+      "schema": "{{task.cmVwbGljYcOnw6Nv-g8ft:null$_$decisionscard.schema}}",
+      "type": "TABLE",
+      "sourceTableId": "$replicate$decisionscard_t_bloqueio_cliente"
+    },
+    {
+      "name": "t_boleto",
+      "schema": "{{task.cmVwbGljYcOnw6Nv-g8ft:null$_$decisionscard.schema}}",
+      "type": "TABLE",
+      "sourceTableId": "$replicate$decisionscard_t_boleto"
+    },
+    {
+      "name": "t_cartao",
+      "schema": "{{task.cmVwbGljYcOnw6Nv-g8ft:null$_$decisionscard.schema}}",
+      "type": "TABLE",
+      "sourceTableId": "$replicate$decisionscard_t_cartao"
+    },
+    {
+      "name": "t_cliente",
+      "schema": "{{task.cmVwbGljYcOnw6Nv-g8ft:null$_$decisionscard.schema}}",
+      "type": "TABLE",
+      "sourceTableId": "$replicate$decisionscard_t_cliente"
+    },
+    {
+      "name": "t_cobranca",
+      "schema": "{{task.cmVwbGljYcOnw6Nv-g8ft:null$_$decisionscard.schema}}",
+      "type": "TABLE",
+      "sourceTableId": "$replicate$decisionscard_t_cobranca"
+    },
+    {
+      "name": "t_dominio",
+      "schema": "{{task.cmVwbGljYcOnw6Nv-g8ft:null$_$decisionscard.schema}}",
+      "type": "TABLE",
+      "sourceTableId": "$replicate$decisionscard_t_dominio"
+    },
+    {
+      "name": "t_escolaridade",
+      "schema": "{{task.cmVwbGljYcOnw6Nv-g8ft:null$_$decisionscard.schema}}",
+      "type": "TABLE",
+      "sourceTableId": "$replicate$decisionscard_t_escolaridade"
+    },
+    {
+      "name": "t_estado_civil",
+      "schema": "{{task.cmVwbGljYcOnw6Nv-g8ft:null$_$decisionscard.schema}}",
+      "type": "TABLE",
+      "sourceTableId": "$replicate$decisionscard_t_estado_civil"
+    },
+    {
+      "name": "t_fatura",
+      "schema": "{{task.cmVwbGljYcOnw6Nv-g8ft:null$_$decisionscard.schema}}",
+      "type": "TABLE",
+      "sourceTableId": "$replicate$decisionscard_t_fatura"
+    },
+    {
+      "name": "t_fechamento",
+      "schema": "{{task.cmVwbGljYcOnw6Nv-g8ft:null$_$decisionscard.schema}}",
+      "type": "TABLE",
+      "sourceTableId": "$replicate$decisionscard_t_fechamento"
+    },
+    {
+      "name": "t_forma_pagamento",
+      "schema": "{{task.cmVwbGljYcOnw6Nv-g8ft:null$_$decisionscard.schema}}",
+      "type": "TABLE",
+      "sourceTableId": "$replicate$decisionscard_t_forma_pagamento"
+    },
+    {
+      "name": "t_meta_rede",
+      "schema": "{{task.cmVwbGljYcOnw6Nv-g8ft:null$_$decisionscard.schema}}",
+      "type": "TABLE",
+      "sourceTableId": "$replicate$decisionscard_t_meta_rede"
+    },
+    {
+      "name": "t_moradia",
+      "schema": "{{task.cmVwbGljYcOnw6Nv-g8ft:null$_$decisionscard.schema}}",
+      "type": "TABLE",
+      "sourceTableId": "$replicate$decisionscard_t_moradia"
+    },
+    {
+      "name": "t_ocupacao",
+      "schema": "{{task.cmVwbGljYcOnw6Nv-g8ft:null$_$decisionscard.schema}}",
+      "type": "TABLE",
+      "sourceTableId": "$replicate$decisionscard_t_ocupacao"
+    },
+    {
+      "name": "t_pagamento_boleto",
+      "schema": "{{task.cmVwbGljYcOnw6Nv-g8ft:null$_$decisionscard.schema}}",
+      "type": "TABLE",
+      "sourceTableId": "$replicate$decisionscard_t_pagamento_boleto"
+    },
+    {
+      "name": "t_pagamento_fatura",
+      "schema": "{{task.cmVwbGljYcOnw6Nv-g8ft:null$_$decisionscard.schema}}",
+      "type": "TABLE",
+      "sourceTableId": "$replicate$decisionscard_t_pagamento_fatura"
+    },
+    {
+      "name": "t_parcela_venda",
+      "schema": "{{task.cmVwbGljYcOnw6Nv-g8ft:null$_$decisionscard.schema}}",
+      "type": "TABLE",
+      "sourceTableId": "$replicate$decisionscard_t_parcela_venda"
+    },
+    {
+      "name": "t_processamento",
+      "schema": "{{task.cmVwbGljYcOnw6Nv-g8ft:null$_$decisionscard.schema}}",
+      "type": "TABLE",
+      "sourceTableId": "$replicate$decisionscard_t_processamento"
+    },
+    {
+      "name": "t_profissao",
+      "schema": "{{task.cmVwbGljYcOnw6Nv-g8ft:null$_$decisionscard.schema}}",
+      "type": "TABLE",
+      "sourceTableId": "$replicate$decisionscard_t_profissao"
+    },
+    {
+      "name": "t_rede",
+      "schema": "{{task.cmVwbGljYcOnw6Nv-g8ft:null$_$decisionscard.schema}}",
+      "type": "TABLE",
+      "sourceTableId": "$replicate$decisionscard_t_rede"
+    },
+    {
+      "name": "t_rolagem",
+      "schema": "{{task.cmVwbGljYcOnw6Nv-g8ft:null$_$decisionscard.schema}}",
+      "type": "TABLE",
+      "sourceTableId": "$replicate$decisionscard_t_rolagem"
+    },
+    {
+      "name": "t_tipo_ajuste",
+      "schema": "{{task.cmVwbGljYcOnw6Nv-g8ft:null$_$decisionscard.schema}}",
+      "type": "TABLE",
+      "sourceTableId": "$replicate$decisionscard_t_tipo_ajuste"
+    },
+    {
+      "name": "t_tipo_bloqueio_cartao",
+      "schema": "{{task.cmVwbGljYcOnw6Nv-g8ft:null$_$decisionscard.schema}}",
+      "type": "TABLE",
+      "sourceTableId": "$replicate$decisionscard_t_tipo_bloqueio_cartao"
+    },
+    {
+      "name": "t_tipo_bloqueio_cliente",
+      "schema": "{{task.cmVwbGljYcOnw6Nv-g8ft:null$_$decisionscard.schema}}",
+      "type": "TABLE",
+      "sourceTableId": "$replicate$decisionscard_t_tipo_bloqueio_cliente"
+    },
+    {
+      "name": "t_usuario",
+      "schema": "{{task.cmVwbGljYcOnw6Nv-g8ft:null$_$decisionscard.schema}}",
+      "type": "TABLE",
+      "sourceTableId": "$replicate$decisionscard_t_usuario"
+    },
+    {
+      "name": "t_venda",
+      "schema": "{{task.cmVwbGljYcOnw6Nv-g8ft:null$_$decisionscard.schema}}",
+      "type": "TABLE",
+      "sourceTableId": "$replicate$decisionscard_t_venda"
+    }
+  ]
+}

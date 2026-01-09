@@ -1,0 +1,11 @@
+{
+  "id": "$replicate$decisionscard_t_rolagem",
+  "name": "decisionscard_t_rolagem",
+  "type": "LANDING",
+  "tableDef": {
+    "name": "t_rolagem",
+    "dbSchema": "{{task.cmVwbGljYcOnw6Nv-g8ft:null$_$decisionscard.schema}}",
+    "secureQri": "",
+    "fullLoadOnly": false
+  }
+}

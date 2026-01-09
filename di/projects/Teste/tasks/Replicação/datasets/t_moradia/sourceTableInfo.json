@@ -1,0 +1,11 @@
+{
+  "id": "$replicate$decisionscard_t_moradia",
+  "name": "decisionscard_t_moradia",
+  "type": "LANDING",
+  "tableDef": {
+    "name": "t_moradia",
+    "dbSchema": "{{task.cmVwbGljYcOnw6Nv-g8ft:null$_$decisionscard.schema}}",
+    "secureQri": "",
+    "fullLoadOnly": false
+  }
+}

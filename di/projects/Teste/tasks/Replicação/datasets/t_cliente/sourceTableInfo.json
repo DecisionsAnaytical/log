@@ -1,0 +1,11 @@
+{
+  "id": "$replicate$decisionscard_t_cliente",
+  "name": "decisionscard_t_cliente",
+  "type": "LANDING",
+  "tableDef": {
+    "name": "t_cliente",
+    "dbSchema": "{{task.cmVwbGljYcOnw6Nv-g8ft:null$_$decisionscard.schema}}",
+    "secureQri": "",
+    "fullLoadOnly": false
+  }
+}

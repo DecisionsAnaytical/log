@@ -1,0 +1,11 @@
+{
+  "id": "$replicate$decisionscard_t_processamento",
+  "name": "decisionscard_t_processamento",
+  "type": "LANDING",
+  "tableDef": {
+    "name": "t_processamento",
+    "dbSchema": "{{task.cmVwbGljYcOnw6Nv-g8ft:null$_$decisionscard.schema}}",
+    "secureQri": "",
+    "fullLoadOnly": false
+  }
+}

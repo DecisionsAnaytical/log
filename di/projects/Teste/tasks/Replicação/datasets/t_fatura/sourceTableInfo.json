@@ -1,0 +1,11 @@
+{
+  "id": "$replicate$decisionscard_t_fatura",
+  "name": "decisionscard_t_fatura",
+  "type": "LANDING",
+  "tableDef": {
+    "name": "t_fatura",
+    "dbSchema": "{{task.cmVwbGljYcOnw6Nv-g8ft:null$_$decisionscard.schema}}",
+    "secureQri": "",
+    "fullLoadOnly": false
+  }
+}

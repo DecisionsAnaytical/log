@@ -1,0 +1,11 @@
+{
+  "id": "$replicate$decisionscard_t_ocupacao",
+  "name": "decisionscard_t_ocupacao",
+  "type": "LANDING",
+  "tableDef": {
+    "name": "t_ocupacao",
+    "dbSchema": "{{task.cmVwbGljYcOnw6Nv-g8ft:null$_$decisionscard.schema}}",
+    "secureQri": "",
+    "fullLoadOnly": false
+  }
+}

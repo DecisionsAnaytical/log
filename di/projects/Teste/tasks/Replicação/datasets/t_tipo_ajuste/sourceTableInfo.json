@@ -1,0 +1,11 @@
+{
+  "id": "$replicate$decisionscard_t_tipo_ajuste",
+  "name": "decisionscard_t_tipo_ajuste",
+  "type": "LANDING",
+  "tableDef": {
+    "name": "t_tipo_ajuste",
+    "dbSchema": "{{task.cmVwbGljYcOnw6Nv-g8ft:null$_$decisionscard.schema}}",
+    "secureQri": "",
+    "fullLoadOnly": false
+  }
+}

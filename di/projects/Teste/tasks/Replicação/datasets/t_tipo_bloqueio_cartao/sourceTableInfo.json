@@ -1,0 +1,11 @@
+{
+  "id": "$replicate$decisionscard_t_tipo_bloqueio_cartao",
+  "name": "decisionscard_t_tipo_bloqueio_cartao",
+  "type": "LANDING",
+  "tableDef": {
+    "name": "t_tipo_bloqueio_cartao",
+    "dbSchema": "{{task.cmVwbGljYcOnw6Nv-g8ft:null$_$decisionscard.schema}}",
+    "secureQri": "",
+    "fullLoadOnly": false
+  }
+}

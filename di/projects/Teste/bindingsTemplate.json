@@ -1,0 +1,22 @@
+{
+  "variables": {
+    "cloudStagingConnection": "",
+    "platformConnection": "",
+    "projectName": "",
+    "task.cmVwbGljYcOnw6Nv-g8ft.sourceConnection": "",
+    "task.cmVwbGljYcOnw6Nv-g8ft.targetConnection": "",
+    "task.cmVwbGljYcOnw6Nv-g8ft.targetStorageConnection": "",
+    "task.cmVwbGljYcOnw6Nv-g8ft:null$_$decisionscard.schema": ""
+  },
+  "idToNameMap": {
+    "cmVwbGljYcOnw6Nv-g8ft": "Replica\u00E7\u00E3o"
+  },
+  "connectionProperties": {
+    "task.cmVwbGljYcOnw6Nv-g8ft.sourceConnection": {
+      "type": "repsrc_postgresql"
+    },
+    "task.cmVwbGljYcOnw6Nv-g8ft.targetConnection": {
+      "type": "reptgt_qdipostgresql"
+    }
+  }
+}

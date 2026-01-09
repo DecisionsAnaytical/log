@@ -1,0 +1,17 @@
+{
+  "id": "t_venda",
+  "name": "t_venda",
+  "type": "LANDING",
+  "inputDatasets": [
+    {
+      "type": "TABLE",
+      "datasetId": "$replicate$decisionscard_t_venda",
+      "name": "t_venda",
+      "projectId": "{{ref(project.current.projectId)}}",
+      "taskId": "cmVwbGljYcOnw6Nv-g8ft",
+      "schema": "{{task.cmVwbGljYcOnw6Nv-g8ft:null$_$decisionscard.schema}}"
+    }
+  ],
+  "virtualDataset": false,
+  "description": ""
+}
